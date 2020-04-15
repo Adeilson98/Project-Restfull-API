@@ -1,0 +1,24 @@
+{
+  "name": "restfull",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adeilson98/Project-Restfull-API.git"
+  },
+  "author": "Adeilson Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adeilson98/Project-Restfull-API/issues"
+  },
+  "homepage": "https://github.com/Adeilson98/Project-Restfull-API#readme"
+}
